@@ -43,6 +43,15 @@ a {
     align-items: center;
 }
 
+.header-inner {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 1100px;
+}
+
 .logo {
     color: white;
     font-weight: 700;
